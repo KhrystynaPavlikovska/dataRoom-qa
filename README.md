@@ -76,3 +76,13 @@ The current test suite focuses on the following areas:
 | Shared with Me | Basic functionality of the shared items section |
 
 Coverage is evolving as additional scenarios are automated and validated.
+
+
+
+
+## Test Execution Overview
+
+<img width="850" height="332" alt="Screenshot 2026-10-20 at 14 41 00" src="https://github.com/user-attachments/assets/af0a05ad-0697-4a71-8039-7e638a87e8ad" />
+<img width="856" height="775" alt="Screenshot 2026-10-20 at 14 41 35" src="https://github.com/user-attachments/assets/d951da37-b242-465b-b66f-ea77289ce0cb" />
+
+
